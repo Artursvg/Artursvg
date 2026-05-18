@@ -1,87 +1,100 @@
 <div align="center">
-  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:111827&height=180&section=header&text=Artur%20Silva&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20Python%20%7C%20Laravel%20%7C%20APIs&descAlignY=58&descSize=16" />
+
 </div>
 
-<h1 align="center">Olá, eu sou o Artur 👋</h1>
+<h2 align="center">👋 Olá, eu sou o Artur</h2>
 
 <h3 align="center">
-  Analista de Suporte Júnior | Tecnologia | APIs | Atendimento Técnico
+  Desenvolvedor focado em aplicações, APIs, automações e manutenção de plataformas
 </h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Artursvg&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:SEU-EMAIL-AQUI">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Artursvg">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
-  </a>
-  <a href="mailto:SEU-EMAIL-AQUI">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="email logo" />
-  </a>
-  <a href="https://github.com/Artursvg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github logo" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Artursvg&style=for-the-badge&color=6D28D9" alt="Profile views" />
 </div>
 
 ---
 
-<h3 align="left">👨‍💻 Sobre mim</h3>
+## 🧑‍💻 Sobre mim
 
-<p align="left">
-Sou um profissional de tecnologia em início de carreira, atuando como <strong>Analista de Suporte Júnior</strong>, com foco em atendimento técnico, resolução de problemas, análise de sistemas e suporte a integrações.
-</p>
+Atuo na área de **desenvolvimento**, criando aplicações, implementando novas funcionalidades, dando manutenção em sistemas existentes e desenvolvendo integrações com APIs.
 
-<p align="left">
-Tenho interesse em crescer na área de tecnologia, especialmente em suporte técnico, APIs, automações, infraestrutura, backend e análise de incidentes.
-</p>
+No dia a dia, trabalho bastante com **Python**, **Laravel**, **GitHub**, APIs, correções, melhorias de plataforma e automações. Gosto de transformar demandas em soluções funcionais, organizadas e úteis para o produto.
 
-<ul>
-  <li>🔭 Atualmente atuo com suporte técnico e análise de problemas</li>
-  <li>📚 Estudando APIs, Git, lógica de programação e ferramentas de desenvolvimento</li>
-  <li>🛠️ Interesse em backend, integrações, troubleshooting e automações</li>
-  <li>⚡ Buscando evoluir como profissional técnico e contribuir com soluções eficientes</li>
-</ul>
+> “Precisa de uma feature nova na plataforma? O Artur resolve.”
+
+- 🚀 Desenvolvimento de aplicações e funcionalidades
+- 🔧 Manutenção, correções e melhorias em sistemas
+- 🔌 Criação e consumo de APIs
+- 🐍 Desenvolvimento com Python
+- 🧱 Desenvolvimento com Laravel/PHP
+- 🧠 Análise de problemas e implementação de soluções
+- 🗂️ Versionamento e colaboração com Git/GitHub
 
 ---
 
-<h3 align="left">🛠️ Tecnologias e ferramentas</h3>
+## 🛠️ Stack principal
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" alt="Laravel" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+
 </div>
 
 <br>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/API-111111?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/Support-111111?style=for-the-badge&logo=zendesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Troubleshooting-111111?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+<img src="https://img.shields.io/badge/APIs-111827?style=for-the-badge&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
+
 </div>
 
 ---
 
-<h3 align="left">📌 Áreas de interesse</h3>
+## ⚙️ O que eu faço
 
 ```txt
-Suporte Técnico      ████████████████████
-APIs e Integrações   ██████████████████░░
-Git e GitHub         ████████████████░░░░
-Backend              ██████████████░░░░░░
-Automação            ████████████░░░░░░░░
-Linux                ███████████░░░░░░░░░
+Desenvolvimento de features     ████████████████████
+Criação e manutenção de APIs     ███████████████████░
+Python                           ██████████████████░░
+Laravel / PHP                    ██████████████████░░
+Git e GitHub                     ███████████████████░
+Manutenção de sistemas           ███████████████████░
+Debug e resolução de problemas   ███████████████████░
+Automações                       ████████████████░░░░
