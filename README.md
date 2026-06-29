@@ -1,54 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:111827&height=180&section=header&text=Artur%20Silva&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20Python%20%7C%20Laravel%20%7C%20APIs&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:0D2818,100:001A0D&height=200&section=header&text=Artur%20Umbelino&fontSize=42&fontColor=00FF41&animation=fadeIn&fontAlignY=32&desc=%3E%20Desenvolvedor%20Full%20Stack%20%7C%20Python%20%7C%20Laravel%20%7C%20APIs&descAlignY=58&descSize=16&descAlign=50" />
 
 </div>
 
-<h2 align="center">👋 Olá, eu sou o Artur</h2>
 
 <h3 align="center">
-  Desenvolvedor focado em aplicações, APIs, automações e manutenção de plataformas
+  <code>&gt; Olá. Eu sou o Artur Umbelino.</code>
 </h3>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:SEU-EMAIL-AQUI">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Artursvg">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+<p align="center">
+  <code>Desenvolvedor focado em aplicações, APIs, automações e manutenção de plataformas</code>
+</p>
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Artursvg&style=for-the-badge&color=6D28D9" alt="Profile views" />
-</div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 📡 Sobre mim
+
+```diff
++ Operador ativo na área de desenvolvimento
++ Especialista em transformar demandas em soluções funcionais
+```
 
 Atuo na área de **desenvolvimento**, criando aplicações, implementando novas funcionalidades, dando manutenção em sistemas existentes e desenvolvendo integrações com APIs.
 
 No dia a dia, trabalho bastante com **Python**, **Laravel**, **GitHub**, APIs, correções, melhorias de plataforma e automações. Gosto de transformar demandas em soluções funcionais, organizadas e úteis para o produto.
 
-> “Precisa de uma feature nova na plataforma? O Artur resolve.”
-
-- 🚀 Desenvolvimento de aplicações e funcionalidades
-- 🔧 Manutenção, correções e melhorias em sistemas
-- 🔌 Criação e consumo de APIs
-- 🐍 Desenvolvimento com Python
-- 🧱 Desenvolvimento com Laravel/PHP
-- 🧠 Análise de problemas e implementação de soluções
-- 🗂️ Versionamento e colaboração com Git/GitHub
+```txt
+> Desenvolvimento de aplicações e funcionalidades
+> Manutenção, correções e melhorias em sistemas
+> Criação e consumo de APIs
+> Desenvolvimento com Python
+> Desenvolvimento com Laravel/PHP
+> Análise de problemas e implementação de soluções
+> Versionamento e colaboração com Git/GitHub
+```
 
 ---
 
-## 🛠️ Stack principal
+## 🖥️ Stack principal
 
 <div align="left">
 
@@ -76,12 +69,12 @@ No dia a dia, trabalho bastante com **Python**, **Laravel**, **GitHub**, APIs, c
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-<img src="https://img.shields.io/badge/APIs-111827?style=for-the-badge&logo=fastapi&logoColor=009688" />
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/PYTHON-0A0A0A?style=for-the-badge&logo=python&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/LARAVEL-0A0A0A?style=for-the-badge&logo=laravel&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/APIS-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/MYSQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/DOCKER-0A0A0A?style=for-the-badge&logo=docker&logoColor=00FF41" />
 
 </div>
 
@@ -98,3 +91,5 @@ Git e GitHub                     ███████████████�
 Manutenção de sistemas           ███████████████████░
 Debug e resolução de problemas   ███████████████████░
 Automações                       ████████████████░░░░
+```
+
